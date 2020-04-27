@@ -3,6 +3,12 @@ https://carolinexiao.github.io/TodoList/
 
 A Todo List App
 
+The app was developed with:
+- HTML
+- CSS
+- JavaScript
+- jQuery
+
 Features:
 - Some tasks are displayed on the page by default
 - Hovering over the task will make the trash button show up
