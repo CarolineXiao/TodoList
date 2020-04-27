@@ -1,2 +1,3 @@
 # TodoList
-frontend practice project
+
+A Todo List App
